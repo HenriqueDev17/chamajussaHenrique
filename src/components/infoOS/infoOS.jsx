@@ -5,8 +5,9 @@ import {
   ScrollView,
   Image,
   TouchableOpacity,
-  SafeAreaView,
 } from 'react-native';
+
+import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { styles } from './infoStyleOS';
 import Footer from '../footer/Footer';

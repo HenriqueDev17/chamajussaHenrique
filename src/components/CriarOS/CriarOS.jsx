@@ -7,6 +7,8 @@ import {
   ScrollView,
 } from 'react-native';
 
+
+
 import styles from './CriarOSStyle';
 import Footer from '../footer/Footer';
 
